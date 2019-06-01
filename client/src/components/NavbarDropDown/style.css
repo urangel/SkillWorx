@@ -18,6 +18,7 @@ a:hover{
 .dropdown-menu{
     padding: 0px;
     text-align: center;
+    left:0;
 }
 .dropdown{
     padding-top: 35px;

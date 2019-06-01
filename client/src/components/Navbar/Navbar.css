@@ -36,6 +36,7 @@
   font-size: 1.5rem;
   color: rgba(18, 17, 17, 0.831);
 }
+
 @media only screen and (max-width: 600px){
   .cap-brand {
     font-size: 2.5rem;
@@ -50,5 +51,8 @@
   }
   #landingSpan{
     margin-left: 50px;
+  }
+  #dropDownMedia{
+    margin-right: 100px;
   }
 }
